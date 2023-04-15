@@ -1,0 +1,12 @@
+import React from 'react'
+
+export default function Aboutus() {
+  return (
+    <div>
+      <h1>About us page</h1>
+      <p>A paragraph is a series of sentences that are organized and coherent, and are all related to a single topic. Almost every piece of writing you do that is longer than a few sentences should be organized into paragraphs.
+      </p>
+      <p> hello its mee</p>
+    </div>
+  )
+}
