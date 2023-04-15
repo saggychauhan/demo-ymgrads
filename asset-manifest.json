@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/demo-ymgrads/static/css/main.99fa4e95.css",
+    "main.js": "/demo-ymgrads/static/js/main.422fb0ef.js",
+    "static/js/787.c1872453.chunk.js": "/demo-ymgrads/static/js/787.c1872453.chunk.js",
+    "static/media/image2.png": "/demo-ymgrads/static/media/image2.8d3acb2bdae1a328243a.png",
+    "index.html": "/demo-ymgrads/index.html",
+    "main.99fa4e95.css.map": "/demo-ymgrads/static/css/main.99fa4e95.css.map",
+    "main.422fb0ef.js.map": "/demo-ymgrads/static/js/main.422fb0ef.js.map",
+    "787.c1872453.chunk.js.map": "/demo-ymgrads/static/js/787.c1872453.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99fa4e95.css",
+    "static/js/main.422fb0ef.js"
+  ]
+}
